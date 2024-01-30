@@ -18,6 +18,7 @@ Reminder App
 # Технологии
 ## Frontend:
 Flutter
+
 Bloc (для управленя состоянием)
 
 ## Backend (опционально):
